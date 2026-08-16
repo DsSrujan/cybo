@@ -146,4 +146,4 @@ Project Link: [https://github.com/yourusername/ai-fraud-guard](https://github.co
 
 ## ⚠️ Disclaimer
 
-This app is for educational and informational purposes only. Always verify information from official sources and report suspected fraud to appropriate authorities. boom
+This app is for educational and informational purposes only. Always verify information from official sources and report suspected fraud to appropriate authorities. boom badge
